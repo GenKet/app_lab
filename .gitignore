@@ -1,0 +1,6 @@
+.venv/
+buil/
+dist/ 
+output/
+main.spec
+Images.png
